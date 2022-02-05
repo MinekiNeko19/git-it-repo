@@ -1,1 +1,1 @@
-hello im seeing what i remember
+so yes i did remember yayyyy cat > text.txt and then end with ctrl+d
